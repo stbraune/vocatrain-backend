@@ -9,7 +9,10 @@ export class AppController {
   }
 
   @Get()
-  root(): string {
-    return this.appService.root();
+  welcome() {
+    return {
+      'vocatrain-backend': 'Welcome',
+      'version': '1.0.0'
+    };
   }
 }
