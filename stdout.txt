@@ -1,0 +1,391 @@
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_24_53_262Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_24_53_278Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_24_56_714Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_24_56_729Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_02_114Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_02_130Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_11_859Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_11_875Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_13_956Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_13_971Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_15_897Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_15_913Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_17_571Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_17_599Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_19_935Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_19_982Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_23_310Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_23_328Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_25_423Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_25_449Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_27_118Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_27_134Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rm -rf dist && tsc
+
+Der Befehl "rm" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 prestart:prod: `rm -rf dist && tsc`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 prestart:prod script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_28_707Z-debug.log
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! vocatrain-backend@1.0.0 start: `npm run start:prod`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the vocatrain-backend@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2018-05-25T17_25_28_732Z-debug.log
+
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rimraf -rf dist && tsc
+
+
+> vocatrain-backend@1.0.0 start:prod C:\Users\stbraune\dev\vocatrain-backend
+> node dist/main.js
+
+Batchvorgang abbrechen (J/N)? 
+> vocatrain-backend@1.0.0 start C:\Users\stbraune\dev\vocatrain-backend
+> npm run start:prod
+
+
+> vocatrain-backend@1.0.0 prestart:prod C:\Users\stbraune\dev\vocatrain-backend
+> rimraf -rf dist && tsc
+
+
+> vocatrain-backend@1.0.0 start:prod C:\Users\stbraune\dev\vocatrain-backend
+> node dist/main.js
+
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[33m +4ms[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[RoutesResolver] [39m[32mAppController {/v1/}:[39m[33m +12ms[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[33m +4ms[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[RoutesResolver] [39m[32mGoogleTranslateController {/v1/translate}:[39m[33m +0ms[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[33m +0ms[39m
+[32m[Nest] 11640   - [39m2018-5-25 19:25:42   [33m[NestApplication] [39m[32mNest application successfully started[39m[33m +0ms[39m

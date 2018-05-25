@@ -15,6 +15,6 @@ async function bootstrap() {
     .setVersion('1.0.0')
     .build()));
 
-  await app.listen(3000);
+  await app.listen(3500);
 }
 bootstrap();
